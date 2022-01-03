@@ -1,0 +1,27 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriydzyunyak/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriydzyunyak/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/andriydzyunyak/goit-js-hw-08#readme",
+  "dependencies": {
+    "joi": "^17.5.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
